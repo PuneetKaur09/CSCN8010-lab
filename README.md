@@ -1,2 +1,3 @@
 # CSCN8010-lab
-CSCN8010 lab submissions
+Course Name - Foundations of Machine Learning
+Course Code - CSCN8010
